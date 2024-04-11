@@ -1,0 +1,254 @@
+.bg{
+	background: url(космос.jpg);
+	height: 2400px;
+	background-size: 100% 50%;
+	font-family: Arial;
+	color: white;
+}
+.top-box{
+	background: ;
+	height: 100px;
+}
+.links-box{
+	background: #283840;
+	height: 35px;
+	width: 680px;
+	padding-top: 15px;
+	border: 2px solid #1b2429;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: 20px;
+}
+.link-place{
+	height: 35px;
+	width: 200px;
+	background: ;
+}
+.mg-auto{
+	margin-left: auto;
+	margin-right: auto;
+}
+.logo-box{
+	background: #283840;
+	height: 100px;
+	width: 200px;
+	border: 2px solid #1b2429;
+	border-radius: 10px;
+	margin-left: 20px;
+	transition: 0.1s;
+}
+.logo-box:hover{
+	height: 105px;
+	width: 205px;
+}
+.logo-img{
+	height: 100px;
+	width: 200px;
+	transition: 0.1s;
+}
+.logo-img:hover{
+	height: 105px;
+	width: 205px;
+}
+.header1{
+	background: #283840;
+	height: 100px;
+	width: 300px;
+	border: 2px solid #1b2429;
+	border-radius: 10px;
+}
+.description{
+	background: #1b2429;
+	height: 300px;
+	width: 190px;
+	margin-left: 10px;
+	border-radius: 10px;
+	text-align: center;
+}
+.header-txt{
+	font-size: 50px;
+	margin-top: 20px;
+	text-align: center;
+	color: white;
+	transition: 0.1s;
+	text-align: center;
+}
+.header-txt:hover{
+	font-size: 52px;
+}
+.box1{
+	background: #283840;
+	height: 320px;
+	width: 1440px;
+	border: 2px solid #1b2429;
+	border-radius: 10px;
+}
+.RP-img{
+	height: 50px;
+	width: 50px;
+	margin-top: 0px;
+	transition: 0.1s;
+}
+.RP-img:hover{
+	height: 55px;
+	width: 55px;
+}
+.header2{
+	background: #283840;
+	height: 95px;
+	width: 300px;
+	padding-top: 5px;
+	border: 2px solid #1b2429;
+	border-radius: 10px;
+}
+.box2{
+	background: #283840;
+	height: 270px;
+	width: 1400px;
+	border: 2px solid #1b2429;
+	border-radius: 10px;
+}
+.meh{
+	background: ;
+	height: 250px;
+	width: 325px;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+.header3{
+	background: #283840;
+	height: 95px;
+	width: 500px;
+	padding-top: 5px;
+	border: 2px solid #1b2429;
+	border-radius: 10px;
+}
+.box3{
+	background: #283840;
+	height: 510px;
+	width: 1000px;
+	padding-top: 10px;
+	border: 2px solid #1b2429;
+	border-radius: 10px;
+}
+.lore-box{
+	background: ;
+	height: 250px;
+	width: 980px;
+	margin-left: 10px;
+}
+.fract-box{
+	background: #1b2429;
+	height: 250px;
+	width: 210px;
+	margin-left: 50px;
+	border-radius: 10px;
+	text-align: center;
+}
+.fract-img{
+	height: 120px;
+	width: 200px;
+	transition: 0.1s;
+}
+.fract-img:hover{
+	width: 205px;
+}
+.fract-txt{
+	font-size: 12px;
+	margin-top: 0px;
+}
+.atmos-box{
+	background: ;
+	height: 250px;
+	width: 980px;
+	margin-left: 10px;
+}
+.link{
+	color: white;
+	text-decoration: none;
+	font-size: 25px;
+	margin-left: 100px;
+	transition: font-size 0.1s;
+}
+.link:hover{
+	text-decoration: underline;
+	font-size: 27px;
+}
+.atmos-img-box1{
+	background: ;
+	height: 250px;
+	width: 450px;
+}
+.atmos-img-box2{
+	background: ;
+	height: 125px;
+	width: 400px;
+}
+.icon-box1{
+	background: ;
+	height: 125px;
+	width: 100px;
+}
+.icon-box2{
+	background: #1b2429;
+	height: 200px;
+	width: 100px;
+	border-radius: 10px;
+}
+.icon{
+	height: 100px;
+	width: 100px;
+}
+.atmos-img-txt{
+	margin-top: 0px;
+	font-size: 10px;
+	text-align: center;
+}
+.header4{
+	background: #283840;
+	height: 95px;
+	width: 650px;
+	padding-top: 5px;
+	border: 2px solid #1b2429;
+	border-radius: 10px;
+}
+.ant-box{
+	background: #283840;
+	height: 310px;
+	width: 960px;
+	padding-top: 10px;
+	border: 2px solid #1b2429;
+	border-radius: 10px;
+}
+.ant-img-box{
+	height: 200px;
+	width: 940px;
+	margin-left: 10px;
+	background: ;
+}
+.ant-txt-box{
+	height: 100px;
+	width: 940px;
+	margin-left: 10px;
+}
+.mg-l{
+	margin-left: 25px;
+}
+.mg-l1{
+	margin-left: 10px;
+}
+.mg-l2{
+	margin-left: 5px;
+}
+.mg-t0{
+	margin-top: 0px;
+}
+.mg-t{
+	margin-top: 50px;
+}
+.mg-t1{
+	margin-top: 10px;
+}
+.d-flex{
+	display: flex;
+}
